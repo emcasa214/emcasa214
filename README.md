@@ -11,7 +11,7 @@
 - 🎓 I am a **Backend Developer** with a passion for building scalable and efficient systems.
 - 🛠️ I specialize in **Node.js**, **Express.js**, and **Python (Django, Flask)**.
 - 🌱 Currently learning advanced **microservices architecture** and **DevOps tools**.
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**.
+- 📫 Reach me at: **[qtragxinh@gmail.com](mailto:qtragxinh@gmail.com)**.
 
 ---
 
